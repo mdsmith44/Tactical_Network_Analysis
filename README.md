@@ -1,7 +1,7 @@
 # Tactical_Network_Analysis
 Demonstration of tools used to perform data analysis and data visualization of high-throughput tactical networks used in experimentation.  
 
-Key tools: bokeh, networkx, pandas.  
+Key tools: `bokeh`, `networkx`, `pandas`.  
 
 ## References
 
